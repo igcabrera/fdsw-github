@@ -22,6 +22,11 @@ body {
   color: red;
 }
 
+/* acerca de mi */
+
+.acerca_de_mi h3 {
+  color: red;
+}
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
