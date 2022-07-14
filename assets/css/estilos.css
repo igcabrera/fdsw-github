@@ -40,7 +40,13 @@ body {
 
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: #3c3737;
+}
+#Contacto h2 {
+  color: red;
+}
+footer p {
+  color: #3c3737;
 }
 nav a {
   text-transform: uppercase;
